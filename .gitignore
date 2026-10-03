@@ -1,0 +1,32 @@
+# Materiais disponibilizados nas aulas
+*.zip
+*.pdf
+
+# Anotações e materiais locais
+Resumo das Aulas.txt
+
+# Versões anteriores das atividades
+Atividade 01/
+
+# Dependências Node
+**/node_modules/
+
+# Expo
+**/.expo/
+**/dist/
+**/web-build/
+
+# Ambiente
+*.env
+*.env.local
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Configurações locais de ferramentas
+**/.claude/
